@@ -1,0 +1,25 @@
+---
+---
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16pt;
+  padding-top: 2em;
+  padding-left: 3em;
+  background-color: #af3000;
+  color: #f0f0f0;
+}
+
+a {
+  color: #f0f0f0;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+.title {
+  font-size: 32pt;
+  font-weight: normal;
+}
